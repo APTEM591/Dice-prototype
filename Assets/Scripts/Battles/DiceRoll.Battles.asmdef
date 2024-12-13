@@ -1,0 +1,19 @@
+{
+    "name": "DiceRoll.Battles",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:324caed91501a9c47a04ebfd87b68794",
+        "GUID:bd8260ee6514201a7b02f5a29d807e77"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

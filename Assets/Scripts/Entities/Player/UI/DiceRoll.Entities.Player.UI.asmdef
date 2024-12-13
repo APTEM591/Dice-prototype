@@ -1,0 +1,19 @@
+{
+    "name": "DiceRoll.Entities.Player.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f2953cab8787b28d4b8873ac58ce04eb",
+        "GUID:ee93fdaf579bb285fa91962fc662cf4f",
+        "GUID:e993f871ab4f39421b71c3523d98563b",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
