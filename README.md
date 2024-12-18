@@ -1,6 +1,7 @@
 Roll the dice and hit all enemies marked by the number on top of the dice.
 
 Game design: Reemus
+
 Developer: APTEM59
 
 <h1>How to spawn enemies:</h1>
